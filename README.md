@@ -49,3 +49,7 @@ https://visualvessel.com
 My somewhat outdated static site dedicated to my freelancing business. It's built with Nuxt 2, Sass (the design is custom made), and hosted on Netlify.
 
 Some of my other projects can be found on it, they are all built with Vue or one of its frameworks.
+
+# Languages Spoken
+
+Italian, English
